@@ -10,6 +10,12 @@ Video: https://www.youtube.com/watch?v=xnyULqzQ-Rk
 
 * Adding a MongoDB database instance to a GraphQL API in NestJS
 
+## Part three
+Video: https://youtu.be/PXwnT25SZro
+
+* GraphQL authentication
+
+
 ### Who is this for?
 * Those familiar with what NestJS is
 * Those familiar with some GraphQL concepts
